@@ -1,0 +1,19 @@
+{
+  "discord_webhook_url": "https://discord.com/api/webhooks/1568285623951827095/VJogDdhY6A3aAPNU2hXA6RbfRA9HIH4Y1s4XFacJZNeEQKlccwHims17kc0SEABvO2UV",
+  "product_url": "https://www.kmonstar.com.tw/products/%E6%87%89%E5%8B%9F-261114-lun8-4th-mini-album-off-the-grid-special-%E5%9B%9B%E6%A0%BC%E7%85%A7%E6%B4%BB%E5%8B%95-in-taipei.json",
+  "variants": [
+    { "variant_id": 90457598, "custom_name": "진수 JinSu" },
+    { "variant_id": 90457775, "custom_name": "유우마 Yuma" },
+    { "variant_id": 90457776, "custom_name": "카엘 Chael" },
+    { "variant_id": 90457777, "custom_name": "타쿠마 Takuma" },
+    { "variant_id": 90457778, "custom_name": "준우 Jun Woo" },
+    { "variant_id": 90457779, "custom_name": "이안 Ian" }
+  ],
+  "id_name_map": {},
+  "schedules": [
+    {
+      "start": "2026-11-02 14:00",
+      "end": "2026-12-31 23:59"
+    }
+  ]
+}
